@@ -1,3 +1,3 @@
 #Learn C++ language
 
-#practice c++ basics
+practice c++ basics
